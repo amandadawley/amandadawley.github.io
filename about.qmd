@@ -1,0 +1,29 @@
+---
+title: "About"
+format: html
+editor: visual
+---
+
+## About Me
+
+I am a Mathematics and Computer Science double major graduating in May 2023 from CSU Channel Islands. Upon graduation, I will continue working with an internet start-up company that I have been apart of for three years. I will move from intern level to a full-time software developer. Two years ago, I started the CSU Channel Islands Line Dance Club where I was the president sharing my love of line dancing. I taught line dances, organized events, and learned about leadership! I am currently learning how to fly airplanes in hopes of getting my private pilots license.
+
+## Interests
+
+-   high-level computer programming
+
+-   neural networks
+
+-   artificial intelligence
+
+-   mathematical analysis (linear regression, etc.)
+
+-   working with data to train and analyze
+
+## Activities/Hobbies
+
+-   line dancing
+
+-   cooking/baking
+
+-   flying airplanes

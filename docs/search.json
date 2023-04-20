@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "2019-2023 Bachelor of Science, Computer Science, California State University, Channel Islands\n2019-2023 Bachelor of Science, Mathematics, Emphasis is Applied Mathematics, California State University, Channel Islands\nCUMULATIVE GPA: 3.5"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Resume",
+    "section": "Experience",
+    "text": "Experience\nINFORMATION SYSTEMS SUPPORT\nNeutrality Inc.\nJune 2020 - Present\n\nNews topic identification and classification\nMachine learning dataset development and testing\nSoftware testing and data quality control\n\nACADEMIC TUTOR\nCalifornia State University, Channel Islands\nAug 2020 - Jan 2022\n\nSTEM tutor\nMathematics & Computer Science undergraduate courses\n\nPRIVATE TUTOR\nSelf-Employed\nAug 2015 - Present\n\nPrivate tutor for elementary, middle, and high school students\nSTEM subjects\n\nDATA ENGINEER INTERN\nNaval Surface Warfare Center Port Hueneme Division\nSummer 2021\n\nBuilt data pipeline in Java on Navy protected computers\n\nRESEARCH INTERN\nNaval Surface Warfare Center Port Hueneme Division\nNov/Dec 2020\n\nMonth long research project: Concrete Alternatives for Austere Construction of Airfields"
+  },
+  {
+    "objectID": "resume.html#projects",
+    "href": "resume.html#projects",
+    "title": "Resume",
+    "section": "Projects",
+    "text": "Projects\n\nJava Data Pipeline NSWC Port Hueneme - Summer 2021\nConcrete Alternatives for Austere Construction of Airfields - Nov/Dec 2020\nThe Prevention of Marine Entanglement Using Autonomous Underwater Fishing Gear Through Designed Simulation - Aug 2017-Apr 2018\nVirtual Reality Education - Nov 2016-Feb 2017\nPreventing Corrosion of Assorted Metals - Jan 2015 - Apr 2015"
+  },
+  {
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Resume",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nMS Office (Word, Excel, Powerpoint)\nOperating Systems (Windows, macOS)\nJava, Javascript C/C++, Python, Swift (iOS), R\nMATLAB\nLaTeX\nAWS, Microsoft Azure\nOnline Research"
+  },
+  {
+    "objectID": "resume.html#ways-to-reach-me",
+    "href": "resume.html#ways-to-reach-me",
+    "title": "Resume",
+    "section": "Ways to Reach Me",
+    "text": "Ways to Reach Me\nphone: (805)-206-9506\nemail: amandasdawley@gmail.com\nLinked-In: Dawley Linked-In"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a Mathematics and Computer Science double major graduating in May 2023 from CSU Channel Islands. Upon graduation, I will continue working with an internet start-up company that I have been apart of for three years. I will move from intern level to a full-time software developer. Two years ago, I started the CSU Channel Islands Line Dance Club where I was the president sharing my love of line dancing. I taught line dances, organized events, and learned about leadership! I am currently learning how to fly airplanes in hopes of getting my private pilots license."
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About",
+    "section": "Interests",
+    "text": "Interests\n\nhigh-level computer programming\nneural networks\nartificial intelligence\nmathematical analysis (linear regression, etc.)\nworking with data to train and analyze"
+  },
+  {
+    "objectID": "about.html#activitieshobbies",
+    "href": "about.html#activitieshobbies",
+    "title": "About",
+    "section": "Activities/Hobbies",
+    "text": "Activities/Hobbies\n\nline dancing\ncooking/baking\nflying airplanes"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "My name is Amanda Dawley and I am a Computer Science and Mathematics double major. I am set to graduate in May of 2023. Check out the other tabs on this website to learn more about me and my interests as well as my full resume."
+  }
+]

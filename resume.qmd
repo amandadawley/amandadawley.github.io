@@ -1,0 +1,99 @@
+---
+title: "Resume"
+format: html
+editor: visual
+---
+
+## Education
+
+2019-2023 Bachelor of Science, Computer Science, California State University, Channel Islands
+
+2019-2023 Bachelor of Science, Mathematics, Emphasis is Applied Mathematics, California State University, Channel Islands
+
+CUMULATIVE GPA: 3.5
+
+## Experience
+
+INFORMATION SYSTEMS SUPPORT
+
+Neutrality Inc.
+
+June 2020 - Present
+
+-   News topic identification and classification
+
+-   Machine learning dataset development and testing
+
+-   Software testing and data quality control
+
+ACADEMIC TUTOR
+
+California State University, Channel Islands
+
+Aug 2020 - Jan 2022
+
+-   STEM tutor
+
+-   Mathematics & Computer Science undergraduate courses
+
+PRIVATE TUTOR
+
+Self-Employed
+
+Aug 2015 - Present
+
+-   Private tutor for elementary, middle, and high school students
+
+-   STEM subjects
+
+DATA ENGINEER INTERN
+
+Naval Surface Warfare Center Port Hueneme Division
+
+Summer 2021
+
+-   Built data pipeline in Java on Navy protected computers
+
+RESEARCH INTERN
+
+Naval Surface Warfare Center Port Hueneme Division
+
+Nov/Dec 2020
+
+-   Month long research project: Concrete Alternatives for Austere Construction of Airfields
+
+## Projects
+
+-   Java Data Pipeline NSWC Port Hueneme - Summer 2021
+
+-   Concrete Alternatives for Austere Construction of Airfields - Nov/Dec 2020
+
+-   The Prevention of Marine Entanglement Using Autonomous Underwater Fishing Gear Through Designed Simulation - Aug 2017-Apr 2018
+
+-   Virtual Reality Education - Nov 2016-Feb 2017
+
+-   Preventing Corrosion of Assorted Metals - Jan 2015 - Apr 2015
+
+## Technical Skills
+
+-   MS Office (Word, Excel, Powerpoint)
+
+-   Operating Systems (Windows, macOS)
+
+-   Java, Javascript C/C++, Python, Swift (iOS), R
+
+-   MATLAB
+
+-   LaTeX
+
+-   AWS, Microsoft Azure
+
+-   Online Research
+
+## Ways to Reach Me
+
+phone: (805)-206-9506
+
+email: amandasdawley\@gmail.com
+
+Linked-In: [Dawley Linked-In](https://www.linkedin.com/in/amanda-dawley-67821413b/)
