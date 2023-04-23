@@ -2,5 +2,6 @@
 title: "Home"
 ---
 
-My name is Amanda Dawley and I am a Computer Science and Mathematics double major. I am set to graduate in May of 2023. Check out the other tabs on this website to learn more about me and my interests as well as my full resume. 
+![](amanda.jpg){fig-align="center" width="250"}
 
+My name is Amanda Dawley and I am a Computer Science and Mathematics double major. I am set to graduate in May of 2023. Check out the other tabs on this website to learn more about me and my interests as well as my full resume.
